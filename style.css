@@ -1,0 +1,42 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.name-inp{
+    width: 380px;
+    height: 25px;
+}
+.red-col{
+    color: red;
+}
+.gap{
+    margin-top: 25px;
+}
+.inp{
+    width: 99%;
+    height: 25px;
+}
+.add-inp{
+    width: 99%;
+    height: 100px;
+}
+.sel-inp{
+    width: 100%;
+    height: 32px;
+}
+.btn-dsn{
+    padding: 10px 20px;
+    background-color: rgb(39, 196, 156);
+    color: aliceblue;
+    border: 4px solid rgb(5, 9, 247);
+}
+.btn-dsn:hover{
+    cursor:pointer;
+}
+.border-rad{
+    border-radius: 6px;
+}
